@@ -11,7 +11,7 @@ config = {
     'author_email': 'hayleyanderson@zoho.com',
     'version': '0.1',
     'install_requires': ['nose'],
-    'packages': ['problem_one', 'problem_two', 'problem_three'],
+    'packages': ['problem_one', 'problem_two', 'problem_three', 'problem_four'],
     'scripts': [],
     'name': 'FiveProblems'
 }
